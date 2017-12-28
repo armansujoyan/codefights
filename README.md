@@ -9,3 +9,4 @@ This repository includes solutions of CodeFights problem solutions. It is highly
 1. The Journey Begins
 2. Edge of the Ocean
 3. Smooth Sailing
+4. Exploring the Waters

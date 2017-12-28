@@ -2,7 +2,7 @@
 // now it is supported by all major browsers.
 // Instead of this, you can create array of 
 // n+1 and perform join("*") to get string
-// of n length characters.
+// of n length characters. Time complexity O(n)
 
 const addBorder = function(picture) {
     // Create the strings that are going to be used in the
